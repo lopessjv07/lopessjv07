@@ -61,7 +61,7 @@
 
 ###
 
-<p align="left">## 🚀 Chamou
+<p align="left">🚀 Chamou
 
 Chamou is an instant job platform designed to connect companies and freelancers quickly, easily, and directly.
 The goal is for companies to post immediate jobs and for available professionals to accept them in just a few clicks, without bureaucracy.
