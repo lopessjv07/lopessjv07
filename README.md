@@ -42,7 +42,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="sqlite logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=node" height="40" alt="sqlite logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="sqlite logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="sqlite logo"  />
   <img width="12" />
