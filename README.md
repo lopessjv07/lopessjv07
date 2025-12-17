@@ -52,6 +52,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="sqlite logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mariadb" height="40" alt="sqlite logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="sqlite logo"  />
 
 
