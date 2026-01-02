@@ -38,15 +38,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="sqlite logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="sqlite logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="sqlite logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="sqlite logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="sqlite logo"  />
+    <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="sqlite logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="sqlite logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="sqlite logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="sqlite logo"  />
   <img width="12" />
