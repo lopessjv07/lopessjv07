@@ -49,7 +49,7 @@
 
 </div>
 
-<h2 align="left">📋 Latest Project:</h2>
+<h2 align="left">📋 Latests projects:</h2>
 
 ###
 
