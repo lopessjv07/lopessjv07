@@ -67,7 +67,7 @@ Chamou is still in its early stages, but the vision is to become a practical sol
 
 ###
 
-## 🏪 Ordemo — Salon & Barbershop SaaS
+<p align="left">🚀 Ordemo - SaaS
 
 A **multi-tenant** SaaS platform built to manage beauty businesses (salons, barbershops, and independent professionals), focused on scheduling, daily operations, and centralized administration.
 
