@@ -67,3 +67,52 @@ Chamou is still in its early stages, but the vision is to become a practical sol
 
 ###
 
+🏪 Ordemo - Sistema SaaS para Salões e Barbearias
+Sistema completo de gestão para salões de beleza e barbearias com arquitetura Multi-tenant SaaS.
+
+📑 Índice
+Sobre o Projeto
+Funcionalidades
+Stack Tecnológico
+Arquitetura
+Instalação
+Variáveis de Ambiente
+Comandos Úteis
+Acessos ao Sistema
+Integrações
+Troubleshooting
+📋 Sobre o Projeto
+Ordemo é uma plataforma SaaS completa para gestão de estabelecimentos de beleza (salões, barbearias, etc).
+
+Público-alvo
+Donos de salões de beleza
+Barbearias
+Profissionais autônomos
+✨ Funcionalidades
+Para Donos de Salão
+✅ Agenda inteligente de agendamentos
+✅ Cadastro de profissionais e serviços
+✅ Gestão financeira (entradas/saídas)
+✅ Cadastro de clientes
+✅ Horários de funcionamento personalizáveis
+✅ Bloqueio de datas específicas
+Para Clientes
+✅ Agendamento online (página pública)
+✅ Portal do cliente com histórico
+Para Administrador (Supreme)
+✅ Painel de controle de todas as lojas
+✅ Gestão de assinaturas e billing
+✅ Logs de auditoria
+✅ Broadcasts e notificações
+✅ Análise de segurança
+🛠️ Stack Tecnológico
+Camada	Tecnologia
+Frontend	React 18, TypeScript, Vite, CSS Modules
+Backend	Node.js 18+, Express, TypeScript
+ORM	Prisma 5
+Banco de Dados	MariaDB / MySQL
+Autenticação	JWT (Access + Refresh Tokens)
+Logs	Pino Logger
+Pagamentos	Asaas API
+Notificações	Email (Nodemailer), WhatsApp Cloud API
+
