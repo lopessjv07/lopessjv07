@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="100" src="https://i.postimg.cc/4NvgwBPj/Lopes-Dev-1.png"  />
-
-###
-
 <h3 align="left">Systems Development Technician from SENAI (Brazilian National Industrial Training Service) |  <br>Developer and Founder of Chamou<br> - From Brazil</h3>
 
 ###
