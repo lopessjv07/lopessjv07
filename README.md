@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Systems Development Technician from SENAI (Brazilian National Industrial Training Service) |  <br>Developer and Founder of Chamou<br> - From Brazil</h3>
+<h3 align="left">Systems Development Technician from SENAI (Brazilian National Industrial Training Service) |  <br>Developer and Founder, Chamou and Ordemo<br> - From Brazil</h3>
 
 ###
 
